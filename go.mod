@@ -1,4 +1,4 @@
-module github.com/tech-with-moss/go-usermgmt-grpc
+module github.com/ZidanHadipratama/UTS_Mochamad-Zidan-Hadipratama_5027221052
 
 go 1.16
 

@@ -4,7 +4,7 @@
 // - protoc             v3.21.12
 // source: usermgmt.proto
 
-package go_usermgmt_grpc
+package UTS_Mochamad_Zidan_Hadipratama_5027221052
 
 import (
 	context "context"

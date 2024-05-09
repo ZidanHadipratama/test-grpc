@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	pb "github.com/tech-with-moss/go-usermgmt-grpc/usermgmt"
+	pb "github.com/ZidanHadipratama/UTS_Mochamad-Zidan-Hadipratama_5027221052/usermgmt"
 	"google.golang.org/grpc"
 )
 
